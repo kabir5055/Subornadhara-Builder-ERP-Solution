@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subornadhara Builder Ltd. ERP System
 
 A comprehensive Enterprise Resource Planning (ERP) system built specifically for **Subornadhara Builder Ltd.**, a real estate development company. This modern, full-stack application streamlines business operations across multiple departments with an intuitive user interface and powerful backend functionality.
@@ -439,3 +440,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Subornadhara-Builder-ERP-Solution
+>>>>>>> 56be74689fa28f884faad27042cf18c4696111b7
